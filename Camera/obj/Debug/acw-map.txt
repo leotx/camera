@@ -1,0 +1,4 @@
+Camera.MainActivity, Camera;md55180bcb9072a5b49da0ebe3c9b11eea3.MainActivity
+Camera.MainActivity, Camera, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55180bcb9072a5b49da0ebe3c9b11eea3.MainActivity
+Camera.MainActivity;md55180bcb9072a5b49da0ebe3c9b11eea3.MainActivity
+camera.MainActivity;md55180bcb9072a5b49da0ebe3c9b11eea3.MainActivity

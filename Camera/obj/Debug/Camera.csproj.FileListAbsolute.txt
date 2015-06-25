@@ -1,0 +1,14 @@
+C:\projects\Camera\Camera\bin\Debug\Camera.dll
+C:\projects\Camera\Camera\bin\Debug\Camera.pdb
+C:\projects\Camera\Camera\bin\Debug\Camera.dll.mdb
+C:\projects\Camera\Camera\bin\Debug\Camera.Camera.apk
+C:\projects\Camera\Camera\bin\Debug\Camera.Camera-Signed.apk
+C:\projects\Camera\Camera\obj\Debug\Camera.dll
+C:\projects\Camera\Camera\obj\Debug\Camera.pdb
+C:\projects\Camera\Camera\obj\Debug\android\bin\Camera.Camera.apk
+C:\projects\Camera\Camera\obj\Debug\res\layout\main.xml
+C:\projects\Camera\Camera\obj\Debug\res\values\strings.xml
+C:\projects\Camera\Camera\obj\Debug\res\drawable\icon.png
+C:\projects\Camera\Camera\obj\Debug\R.cs.flag
+C:\projects\Camera\Camera\obj\Debug\uploadflags.txt
+C:\projects\Camera\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
